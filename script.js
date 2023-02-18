@@ -1,4 +1,4 @@
-const auth = ""; //ADD THE AUTH KEY
+const auth = "jHI3DrsEW1hvVdkHG8y4Kiq05sX0JN7JRsb83EMtWXeXnilYMrPfdZx0"; //ADD THE AUTH KEY
 const gallery = document.querySelector(".gallery");
 const searchInput = document.querySelector(".search-input");
 const form = document.querySelector(".search-form");
