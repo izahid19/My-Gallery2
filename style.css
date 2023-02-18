@@ -19,13 +19,11 @@ header h2 {
   padding: 2rem;
 }
 #logo {
-  margin: 20px 0;
-  width: 100%;
-  color: #473C33;
+  text-decoration: none;
+  color: black;
   align-items: center;
   text-align: center;
-  margin-bottom: 20px;
-  
+  color: #473C33;
   font-size: 4rem;
   text-shadow:0 0 10px rgba(0,0,0,0.3)
 }
